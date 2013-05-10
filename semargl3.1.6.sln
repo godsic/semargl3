@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "semargl3.1.6", "semargl3\semargl3.vcxproj", "{AB5AD53F-E40A-44D2-9026-24679254443C}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug-INTEL|Win32 = Debug-INTEL|Win32
+		Debug-INTEL|x64 = Debug-INTEL|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release-OPTIMIZATION-INTEL|Win32 = Release-OPTIMIZATION-INTEL|Win32
+		Release-OPTIMIZATION-INTEL|x64 = Release-OPTIMIZATION-INTEL|x64
+		Release-OPTIMIZATION-ON|Win32 = Release-OPTIMIZATION-ON|Win32
+		Release-OPTIMIZATION-ON|x64 = Release-OPTIMIZATION-ON|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Debug|Win32.Build.0 = Debug|Win32
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Debug|x64.ActiveCfg = Debug|x64
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Debug|x64.Build.0 = Debug|x64
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Debug-INTEL|Win32.ActiveCfg = Debug-INTEL|Win32
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Debug-INTEL|Win32.Build.0 = Debug-INTEL|Win32
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Debug-INTEL|x64.ActiveCfg = Debug-INTEL|x64
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Debug-INTEL|x64.Build.0 = Debug-INTEL|x64
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release|Win32.ActiveCfg = Release|Win32
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release|Win32.Build.0 = Release|Win32
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release|x64.ActiveCfg = Release|x64
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release|x64.Build.0 = Release|x64
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release-OPTIMIZATION-INTEL|Win32.ActiveCfg = Release-OPTIMIZATION-INTEL|Win32
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release-OPTIMIZATION-INTEL|Win32.Build.0 = Release-OPTIMIZATION-INTEL|Win32
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release-OPTIMIZATION-INTEL|x64.ActiveCfg = Release-OPTIMIZATION-INTEL|x64
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release-OPTIMIZATION-INTEL|x64.Build.0 = Release-OPTIMIZATION-INTEL|x64
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release-OPTIMIZATION-ON|Win32.ActiveCfg = Release-OPTIMIZATION-ON|Win32
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release-OPTIMIZATION-ON|Win32.Build.0 = Release-OPTIMIZATION-ON|Win32
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release-OPTIMIZATION-ON|x64.ActiveCfg = Release-OPTIMIZATION-ON|x64
+		{AB5AD53F-E40A-44D2-9026-24679254443C}.Release-OPTIMIZATION-ON|x64.Build.0 = Release-OPTIMIZATION-ON|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_UseGlobalSettings = True
+		BuildVersion_UpdateFileVersion = True
+		BuildVersion_UpdateAssemblyVersion = True
+		BuildVersion_BuildVersioningStyle = None.None.YearDayOfYear.TimeStamp
+		AMDCaProjectFile = G:\VS2010\semargl3\CodeAnalyst\semargl3.caw
+		AMDCaPersistentStartup = semargl3.1.2
+		AMDCaPersistentConfig = Release-OPTIMIZATION-ON|x64
+	EndGlobalSection
+EndGlobal
