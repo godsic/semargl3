@@ -1,4 +1,4 @@
-semargl is the complementary analysis tool for modern micromagnetic solver, i.e. OOMMF and mumax2. It offers various kinds of spectral analysis techniques, that make it particularly suitable for applications of magnonics and spintronics.
+semargl is the complementary analysis tool for the modern micromagnetic solvers, i.e. OOMMF and mumax2. It offers various kinds of the spectral analysis techniques, that make it particularly suitable for the applications of magnonics and spintronics.
 
 The short list of features is:
 
